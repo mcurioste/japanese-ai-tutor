@@ -1,0 +1,23 @@
+# Third-Party AI Model Attribution
+
+**Application:** Japanese Tutor
+
+**Model:** Qwen2.5-0.5B-Instruct
+
+**Original model creator:** Qwen Team
+
+**Original model:** https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct
+
+**GGUF quantization:** bartowski
+
+**GGUF model source:** https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF
+
+**License:** Apache License, Version 2.0
+
+This application distributes a quantized version of Qwen2.5-0.5B-Instruct for local text generation.
+
+The original model was developed by the Qwen Team. The GGUF quantization was distributed by bartowski.
+
+The AI model is a third-party component and is not developed by the Japanese Tutor project.
+
+See APACHE-2.0.txt for the applicable license terms.

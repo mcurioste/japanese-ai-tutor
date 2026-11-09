@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Downloaded models
+models/*.gguf
+
+# Generated installers
+installer/
+Output/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
